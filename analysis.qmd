@@ -23,4 +23,3 @@ ggplot(mtcars, aes(x = wt, y = mpg, color = factor(cyl))) +
   theme_minimal()
 ```
 
-This line was written on a second machine.
